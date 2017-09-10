@@ -1,5 +1,3 @@
-![start2](https://cloud.githubusercontent.com/assets/10303538/6315586/9463fa5c-ba06-11e4-8f30-ce7d8219c27d.png)
-
 # PopupAlerts
 A PocketMine-MP plugin to show alerts in popups using CustomAlertsAPI
 
@@ -15,8 +13,6 @@ PocketMine-MP Alpha_1.5 API 1.12.0<br>
 ## Overview
 
 **PopupAlerts** is a CustomAlerts extension which allows you to show alerts (like join/leave messages, etc...) in popups!
-
-**EvolSoft Website:** http://www.evolsoft.tk
 
 
 ***This Plugin uses PocketMine 1.5 API. You can't install it on old versions of PocketMine and this plugin works only with MCPE v0.11.0 and later.***<br>
