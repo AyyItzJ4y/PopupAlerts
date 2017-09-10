@@ -9,10 +9,10 @@ Quit:
   hide-default: true
 WorldChange:
   duration: 3
-  show-popup: true
+  show-popup: false
   hide-default: true
 Death:
   duration: 3
-  show-popup: true
+  show-popup: false
   hide-default: true
 ...
